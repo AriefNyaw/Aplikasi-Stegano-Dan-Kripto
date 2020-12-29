@@ -1,0 +1,26 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package Stegano_Kripto;
+
+import UI_Stegano_Kripto.Menu_Utama;
+
+/**
+ *
+ * @author ACER
+ */
+public class ProjectSteganoDanKripto {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Menu_Utama utama = new Menu_Utama();
+        utama.setVisible(true);
+    }
+    
+}
